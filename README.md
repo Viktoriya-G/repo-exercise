@@ -1,1 +1,5 @@
-# repo-exercise
+a
+
+ repo-exercise
+
+Practice account for learning git
